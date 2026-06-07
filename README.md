@@ -18,6 +18,7 @@
   - 📊 **Finemonix** — AI financial intelligence platform for Indian MSMEs
 - 🎨 Passionate about **product design, branding & luxury aesthetics**
 - 🌐 Deploying on **Vercel** | APIs on **Python/FastAPI**
+- 📄 [**View my Resume**](https://github.com/ranjanpritish16/ranjanpritish16/blob/main/Pritish_Ranjan_Resume.pdf)
 
 ---
 
@@ -84,6 +85,7 @@
 <p align="center">
   <a href="mailto:pritishranjan16505@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/pritish-ranjan-224094323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ranjanpritish16/ranjanpritish16/blob/main/Pritish_Ranjan_Resume.pdf"><img src="https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=readme&logoColor=white" /></a>
 </p>
 
 ---
