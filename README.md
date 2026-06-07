@@ -14,8 +14,8 @@
 - ⚡ Building AI-powered full-stack products for **hackathons & buildathons**
 - 🏆 Competing under the handle **`ranjanpritish16`**
 - 🛠️ Currently building:
-  - 💍 [**LUNÉVIA**](https://github.com/ranjanpritish16) — Luxury AI bridal beauty marketplace for Delhi brides
-  - 📊 **Finemonix** — AI financial intelligence platform for Indian MSMEs
+  - 💍 [**LUNÉVIA**](https://github.com/ranjanpritish16/LUNEVIA) — Luxury AI bridal beauty marketplace for Delhi brides
+  - 📊 [**Finemonix**](https://github.com/ranjanpritish16/Finemonix) — AI financial intelligence platform for Indian MSMEs
 - 🎨 Passionate about **product design, branding & luxury aesthetics**
 - 🌐 Deploying on **Vercel** | APIs on **Python/FastAPI**
 - 📄 [**View my Resume**](https://github.com/ranjanpritish16/ranjanpritish16/blob/main/Pritish_Ranjan_Resume.pdf)
